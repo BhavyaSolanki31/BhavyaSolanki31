@@ -1,5 +1,5 @@
-"https://github.com/user-attachments/assets/fcf79dd1-c21a-4b4f-9aaf-d90d89067102" 
-                                                      # Hi, I'm Bhavya 👋
+"https://github.com/user-attachments/assets/fcf79dd1-c21a-4b4f-9aaf-d90d89067102"
+# Hi, I'm Bhavya 👋
 
 ## About Me
 BTech Electronics & Communication Engineering Student  
