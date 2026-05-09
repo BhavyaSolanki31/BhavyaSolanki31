@@ -1,4 +1,5 @@
-"https://github.com/user-attachments/assets/fcf79dd1-c21a-4b4f-9aaf-d90d89067102"
+<img width="1584" height="396" alt="WhatsApp Image 2026-05-09 at 3 10 51 PM" src="https://github.com/user-attachments/assets/568b8566-6b3a-4ea5-bb64-a0940bdf6478" />
+
 # Hi, I'm Bhavya 👋
 
 ## About Me
