@@ -1,4 +1,5 @@
-# Hi, I'm Bhavya 👋
+"https://github.com/user-attachments/assets/fcf79dd1-c21a-4b4f-9aaf-d90d89067102" 
+                                                      # Hi, I'm Bhavya 👋
 
 ## About Me
 BTech Electronics & Communication Engineering Student  
@@ -6,6 +7,7 @@ Passionate about Artificial Intelligence & Machine Learning
 Interested in Smart Intelligent Systems, DSP & Embedded Technologies  
 Building real-world projects using AIML, DSP and Python  
 Continuously learning and exploring new technologies  
+How to reach me: bhavya4818@gmail.com
 
 ## Tech Stack
 ### Programming Languages
