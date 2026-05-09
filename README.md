@@ -27,6 +27,7 @@
 - Git & GitHub
 - MATLAB
 - Tkinter
+- TensorFlow
 - VS Code
 - Embedded Systems
 - Cadence
