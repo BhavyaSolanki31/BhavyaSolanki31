@@ -22,8 +22,8 @@
 </p> 
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BhavyaSolanki31&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaSolanki31&layout=compact&theme=transparent&hide_border=true" />
+ <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhavyaSolanki31&show_icons=true&theme=default" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BhavyaSolanki31&layout=compact&theme=default" />
 </p>
 
 <p align="center">
