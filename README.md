@@ -71,11 +71,14 @@
 
 ### Real Time Speech Emotion Detection System
 
-Detects emotions from facial expressions using Deep Learning and Computer Vision.
+Real-Time Speech Emotion Detection using MATLAB, Machine Learning, and Signal Processing. The system analyzes uploaded or recorded speech, extracts acoustic features, and predicts emotions such as Happy, Sad, Angry and Neutral through an interactive real-time dashboard.
 
-**Tech Stack**
-
-MATLAB • Audio Processing • Feature Extraction • Machine Learning • Random Forest • DSP
+<img src="https://img.shields.io/badge/MATLAB-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/Audio_Processing-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/Feature_Extraction-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/Machine_Learning-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/Random_Forest-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/DSP-lightgrey?style=flat-square" />
 
 <a href="https://github.com/BhavyaSolanki31/Real-Time-Speech-Emotion-Detection-System-using-MATLAB">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -87,11 +90,14 @@ MATLAB • Audio Processing • Feature Extraction • Machine Learning • Rand
 
 ### AI Powered Smart Energy Meter
 
-IoT-based solution for monitoring and analyzing electricity consumption in real time.
+An AI-powered Smart Energy Meter for real-time monitoring, analysis, and optimization of electricity usage. The system uses intelligent algorithms and sensor-based data processing to reduce power wastage, improve energy efficiency, and support smart, sustainable energy management solutions. 
 
-**Tech Stack**
-
-Python • Tkinter • AI&ML • LSTM • Isolation Forest • Forecasting
+<img src="https://img.shields.io/badge/Python-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/Tkinter-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%26ML-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/LSTM-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/Isolation_Forest-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/Forecasting-lightgrey?style=flat-square" />
 
 <a href="https://github.com/BhavyaSolanki31/AI-Powered-Smart-Energy-Meter">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
