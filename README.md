@@ -62,10 +62,45 @@
 - Embedded Systems
 - Cadence
 
+<h2 align="center"> Featured Projects</h2>
 
-## Featured Projects
-### 🔹 AI-Powered Smart Energy Meter
-An intelligent energy monitoring system using AI-based forecasting and anomaly detection for efficient power management.
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### Real Time Speech Emotion Detection System
+
+Detects emotions from facial expressions using Deep Learning and Computer Vision.
+
+**Tech Stack**
+
+MATLAB • Audio Processing • Feature Extraction • Machine Learning • Random Forest • DSP
+
+<a href="BhavyaSolanki31/Real-Time-Speech-Emotion-Detection-System-using-MATLAB">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### AI Powered Smart Energy Meter
+
+IoT-based solution for monitoring and analyzing electricity consumption in real time.
+
+**Tech Stack**
+
+Python • Tkinter • AI&ML • LSTM • Isolation Forest • Forecasting
+
+<a href="BhavyaSolanki31/AI-Powered-Smart-Energy-Meter">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ## Currently Learning
 - Deep Learning
