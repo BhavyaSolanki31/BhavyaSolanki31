@@ -1,5 +1,5 @@
 <img width="1584" height="396" alt="WhatsApp Image 2026-05-09 at 3 10 51 PM" src="https://github.com/user-attachments/assets/568b8566-6b3a-4ea5-bb64-a0940bdf6478" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Bhavya%20Solanki&fontSize=70&fontColor=ffffff"/>
 # Hi, I'm Bhavya 👋
 
 ## About Me
