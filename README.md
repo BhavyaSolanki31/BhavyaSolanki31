@@ -41,26 +41,48 @@
 - How to reach me: bhavya4818@gmail.com
 
 ## Tech Stack
-### Programming Languages
-- Python
-- C++
-- C
-- Java
 
-### AI / ML
-- Machine Learning
-- Deep Learning Basics
-- Data Analysis
-- LSTM Models
+<hr>
 
-### Tools & Technologies
-- Git & GitHub
-- MATLAB
-- Tkinter
-- TensorFlow
-- VS Code
-- Embedded Systems
-- Cadence
+<h3 align="center">Programming Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<br>
+
+<h3 align="center">AI / ML</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DEEP%20LEARNING-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DATA%20ANALYSIS-0B3D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LSTM%20MODELS-1F1F8B?style=for-the-badge" />
+</p>
+
+<br>
+
+<h3 align="center">Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TKINTER-FFB000?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CADENCE-E60026?style=for-the-badge" />
+</p>
+
+<hr>
 
 ## Featured Projects
 
