@@ -3,6 +3,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&center=true&vCenter=true&width=1000&lines=Building+Projects+That+Solve+Real+Problems;One+Commit+Closer+to+My+Goals;Python+%7C+C+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Embedded+Systems;Open+to+AI%2FML+Opportunities;Welcome+to+My+GitHub+Profile" />
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/bhavya-solanki-267011309/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/BhavyaSolanki31">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:bhavya4818@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 # Hi, I'm Bhavya 👋
 
 ## About Me
