@@ -62,7 +62,7 @@
 - Embedded Systems
 - Cadence
 
-<h2 align="center"> Featured Projects</h2>
+## Featured Projects
 
 <table>
 <tr>
@@ -77,7 +77,7 @@ Detects emotions from facial expressions using Deep Learning and Computer Vision
 
 MATLAB • Audio Processing • Feature Extraction • Machine Learning • Random Forest • DSP
 
-<a href="BhavyaSolanki31/Real-Time-Speech-Emotion-Detection-System-using-MATLAB">
+<a href="https://github.com/BhavyaSolanki31/Real-Time-Speech-Emotion-Detection-System-using-MATLAB">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -93,7 +93,7 @@ IoT-based solution for monitoring and analyzing electricity consumption in real 
 
 Python • Tkinter • AI&ML • LSTM • Isolation Forest • Forecasting
 
-<a href="BhavyaSolanki31/AI-Powered-Smart-Energy-Meter">
+<a href="https://github.com/BhavyaSolanki31/AI-Powered-Smart-Energy-Meter">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
