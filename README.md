@@ -1,7 +1,8 @@
 <img width="1584" height="396" alt="WhatsApp Image 2026-05-09 at 3 10 51 PM" src="https://github.com/user-attachments/assets/568b8566-6b3a-4ea5-bb64-a0940bdf6478" />
 <p align="center">
-  <img src="banner.gif" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&center=true&width=700&lines=AI%2FML+Engineer+in+the+Making;Learning+Building+Innovating;Open+to+AI%2FML+Opportunities"/>
 </p>
+
 # Hi, I'm Bhavya 👋
 
 ## About Me
