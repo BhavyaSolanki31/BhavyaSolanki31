@@ -77,8 +77,8 @@ Real-Time Speech Emotion Detection using MATLAB, Machine Learning, and Signal Pr
 <img src="https://img.shields.io/badge/Audio_Processing-lightgrey?style=flat-square" />
 <img src="https://img.shields.io/badge/Feature_Extraction-lightgrey?style=flat-square" />
 <img src="https://img.shields.io/badge/Machine_Learning-lightgrey?style=flat-square" />
-<img src="https://img.shields.io/badge/Random_Forest-lightgrey?style=flat-square" />
 <img src="https://img.shields.io/badge/DSP-lightgrey?style=flat-square" />
+
 
 <a href="https://github.com/BhavyaSolanki31/Real-Time-Speech-Emotion-Detection-System-using-MATLAB">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
