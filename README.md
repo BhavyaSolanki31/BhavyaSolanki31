@@ -17,6 +17,14 @@
   </a>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bhavyasolanki&label=Profile%20Views&color=blueviolet&style=flat"/>
+</p> 
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyasolanki&show_icons=true&theme=tokyonight"/>
+</p>
+
 # Hi, I'm Bhavya 👋
 
 ## About Me
