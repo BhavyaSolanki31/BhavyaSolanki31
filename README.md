@@ -42,8 +42,6 @@
 
 ## Tech Stack
 
-<hr>
-
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">
@@ -77,8 +75,6 @@
   <img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-2E8B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CADENCE-E60026?style=for-the-badge" />
 </p>
-
-<hr>
 
 ## Featured Projects
 
