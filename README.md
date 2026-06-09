@@ -22,7 +22,7 @@
 </p> 
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyasolanki&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhavyaSolanki31&show_icons=true&theme=tokyonight"/>
 </p>
 
 # Hi, I'm Bhavya 👋
