@@ -52,9 +52,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
-
 <br>
-
 <h3 align="center">AI / ML</h3>
 
 <p align="center">
@@ -63,9 +61,7 @@
   <img src="https://img.shields.io/badge/DATA%20ANALYSIS-0B3D91?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LSTM%20MODELS-1F1F8B?style=for-the-badge" />
 </p>
-
 <br>
-
 <h3 align="center">Tools & Technologies</h3>
 
 <p align="center">
