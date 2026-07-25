@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Bhavya Solanki Banner" width="100%">
+</p>
 <img width="1584" height="396" alt="WhatsApp Image 2026-05-09 at 3 10 51 PM" src="https://github.com/user-attachments/assets/568b8566-6b3a-4ea5-bb64-a0940bdf6478" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&center=true&vCenter=true&width=1000&lines=Building+Projects+That+Solve+Real+Problems;One+Commit+Closer+to+My+Goals;Python+%7C+C+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Embedded+Systems;Open+to+AI%2FML+Opportunities;Welcome+to+My+GitHub+Profile" />
