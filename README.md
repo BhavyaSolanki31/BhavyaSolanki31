@@ -148,65 +148,7 @@ abnormal behaviour.
 
 <td width="50%" align="center">
 
-## 🔐 DSP-Based Secure Image Authentication
-
-A secure image authentication system combining DSP algorithms, bit-plane
-slicing, pseudo-random embedding and PIN-based authentication.
-
-**Highlights**
-
-- PSNR > 40 dB
-- Tested on 20+ images
-- PIN-based authentication
-- ~90% authentication success
-- <1-second validation
-
-**Tech**
-
-`MATLAB` `DSP` `Image Processing`
-
-<br>
-
-<a href="https://github.com/BhavyaSolanki31/DSP-Based-Image-Security-and-PIN-Authentication-System">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-## 📄 ATS Resume Analyzer
-
-An automated resume evaluation platform designed to analyze resumes against
-ATS-oriented criteria and provide data-driven improvement suggestions.
-
-**Highlights**
-
-- Keyword matching
-- Resume scoring
-- ATS-oriented analysis
-- Improvement recommendations
-- Document processing interface
-
-**Tech**
-
-`HTML` 
-
-<br>
-
-<a href="https://github.com/BhavyaSolanki31/ATS-Resumer-Analyzer-Pro">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-## 🎙️ Speech Emotion Detection
+## 🎙️ Real Time Speech Emotion Detection
 
 Real-time speech emotion recognition system using MATLAB, machine learning,
 signal processing and acoustic feature extraction.
