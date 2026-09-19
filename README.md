@@ -22,20 +22,13 @@
   <img src="https://komarev.com/ghpvc/?username=BhavyaSolanki31&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
----
-
-
-# 📊 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BhavyaSolanki31&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Bhavya Solanki
-
-### AI/ML Engineer in the Making | ECE (AI & ML) | Computer Vision | Embedded AI
+# Hi, I'm Bhavya👋
 
 I'm a B.Tech Electronics & Communication Engineering (AI/ML) student at
 **Galgotias University**, passionate about building intelligent systems that
@@ -54,36 +47,11 @@ electronics and CMOS circuit design.
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Current Focus
-
-- Artificial Intelligence & Machine Learning
-- Computer Vision
-- Deep Learning
-- Embedded AI
-- Image Processing
-- Signal Processing & DSP
-- Intelligent Electronics Systems
-
-</td>
-
-<td width="50%">
-
-### 🚀 Career Direction
-
-- AI/ML Engineering
-- Computer Vision
-- Embedded AI
-- Intelligent Systems
-- AI + Electronics
-- Technology-driven engineering roles
-
-</td>
-</tr>
-</table>
+- Passionate about Artificial Intelligence & Machine Learning 
+- Interested in Smart Intelligent Systems, DSP & Embedded Technologies
+- Building real-world projects using AIML, DSP and Python
+- Continuously learning and exploring new technologies
+- How to reach me: bhavya4818@gmail.com
 
 ---
 
@@ -271,7 +239,7 @@ ATS-oriented criteria and provide data-driven improvement suggestions.
 
 **Tech**
 
-`HTML` `CSS` `JavaScript`
+`HTML` 
 
 <br>
 
@@ -369,24 +337,12 @@ testing for display systems.
 
 ---
 
-### DAV Public School — Ghaziabad
-
-**Senior Secondary Education — 2023**  
-**71.3%**
-
-**Secondary Education — 2021**  
-**96.6%**
-
----
-
 # 📜 Certifications & Learning
 
 - 🎓 **Analog ICs & Semiconductor Advancements in VLSI** — NIT Delhi
 - 🤖 **Bootcamp on Artificial Intelligence** — NIELIT Delhi
 - 🧠 **Machine Learning**
 - 💡 **Design Thinking — A Primer**
-- ⚡ **51-Day Analog Circuits Challenge** — 51 analog circuits designed and simulated in Cadence Virtuoso
-
 ---
 
 # 📚 Currently Learning
