@@ -65,6 +65,7 @@ electronics and CMOS circuit design.
 
 </p>
 
+
 - 🎓 **B.Tech Electronics & Communication Engineering (AIML)** — Galgotias University
 - 📊 **CGPA: 8.91 / 10**
 - 🔬 **R&D Intern — Barco**, July 2026 – August 2026
@@ -76,33 +77,45 @@ electronics and CMOS circuit design.
 
 # 🛠️ Core Expertise
 
+<h3 align="center">🤖 AI / Machine Learning</h3>
+
 <p align="center">
-
-### 🤖 AI / Machine Learning
-
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep_Learning-4B0082?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/LSTM-1F1F8B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge" />
-
-### 👁️ Computer Vision & Image Processing
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--image-3B6E8C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Image_Processing-0078D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OCR-444444?style=for-the-badge" />
-
-### 📡 DSP & Electronics
-
-<img src="https://img.shields.io/badge/DSP-0066CC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Signal_Processing-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VLSI-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embedded_Systems-2E8B57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Microcontrollers-556B2F?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DEEP%20LEARNING-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LSTM-1F1F8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge" />
 </p>
+
+<h3 align="center">👁️ Computer Vision & Image Processing</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCIKIT--IMAGE-3B6E8C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IMAGE%20PROCESSING-0078D4?style=for-the-badge" />
+</p>
+
+<h3 align="center">📡 DSP & Electronics</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSP-0066CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIGNAL%20PROCESSING-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLSI-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MICROCONTROLLERS-556B2F?style=for-the-badge" />
+</p>
+
+<h3 align="center">🧪 Testing & Engineering</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROBOT%20FRAMEWORK-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge" />
+</p>
+
 
 ---
 
