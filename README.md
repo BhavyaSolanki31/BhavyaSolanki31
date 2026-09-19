@@ -27,29 +27,15 @@
 </p>
 
 ---
+# Hi, I'm Bhavya 👋 
 
-# Hi, I'm Bhavya👋
-
-I'm a B.Tech Electronics & Communication Engineering (AI/ML) student at
-**Galgotias University**, passionate about building intelligent systems that
-connect **AI, computer vision, signal processing, electronics, and embedded technologies**.
-
-I enjoy taking ideas from concepts and coursework to practical engineering
-solutions — from **LSTM-based energy forecasting and CNN-based image
-classification to computer vision pipelines and automated testing**.
-
-My R&D internship at **Barco** gave me hands-on experience with Python,
-OpenCV, image validation, camera integration, OCR, and automation testing,
-while my earlier VLSI internship strengthened my understanding of digital
-electronics and CMOS circuit design.
-
----
-
-## 🧠 About Me
-
-- Passionate about Artificial Intelligence & Machine Learning 
+## About Me 
+- BTech Electronics & Communication Engineering Student
+- Passionate about Artificial Intelligence & Machine Learning
 - Interested in Smart Intelligent Systems, DSP & Embedded Technologies
 - Building real-world projects using AIML, DSP and Python
+- Barco R&D Intern — Python, OpenCV, Computer Vision & Automation Testing
+- VLSI Intern — Digital Electronics, CMOS Circuits & Circuit Simulation
 - Continuously learning and exploring new technologies
 - How to reach me: bhavya4818@gmail.com
 
@@ -72,50 +58,6 @@ electronics and CMOS circuit design.
 - ⚙️ **Digital Electronics & VLSI Design Intern — Codec Technologies India**
 - 🧩 Built projects across **AI/ML, DSP, computer vision, image processing and intelligent systems**
 - 🛠️ Hands-on with **Python, TensorFlow, Scikit-learn, OpenCV, MATLAB, Robot Framework and Pytest**
-
----
-
-# 🛠️ Core Expertise
-
-<h3 align="center">🤖 AI / Machine Learning</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-F7931E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DEEP%20LEARNING-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LSTM-1F1F8B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge" />
-</p>
-
-<h3 align="center">👁️ Computer Vision & Image Processing</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCIKIT--IMAGE-3B6E8C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OCR-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IMAGE%20PROCESSING-0078D4?style=for-the-badge" />
-</p>
-
-<h3 align="center">📡 DSP & Electronics</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DSP-0066CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SIGNAL%20PROCESSING-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VLSI-8B0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MICROCONTROLLERS-556B2F?style=for-the-badge" />
-</p>
-
-<h3 align="center">🧪 Testing & Engineering</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ROBOT%20FRAMEWORK-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge" />
-</p>
-
 
 ---
 
@@ -294,6 +236,49 @@ signal processing and acoustic feature extraction.
 
 ---
 
+# 🛠️ Core Expertise
+
+<h3 align="center">🤖 AI / Machine Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DEEP%20LEARNING-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LSTM-1F1F8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge" />
+</p>
+
+<h3 align="center">👁️ Computer Vision & Image Processing</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCIKIT--IMAGE-3B6E8C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IMAGE%20PROCESSING-0078D4?style=for-the-badge" />
+</p>
+
+<h3 align="center">📡 DSP & Electronics</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSP-0066CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIGNAL%20PROCESSING-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLSI-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MICROCONTROLLERS-556B2F?style=for-the-badge" />
+</p>
+
+<h3 align="center">🧪 Testing & Engineering</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROBOT%20FRAMEWORK-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge" />
+</p>
+
+
+---
 # 💼 Experience
 
 ## 🔬 R&D Intern — Barco
