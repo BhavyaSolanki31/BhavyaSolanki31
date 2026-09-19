@@ -24,6 +24,25 @@
 
 ---
 
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BhavyaSolanki31&show_icons=true&theme=default&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaSolanki31&layout=compact&theme=default&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=BhavyaSolanki31&theme=transparent&hide_border=true" />
+
+</p>
+
+---
+
 # 👋 Hi, I'm Bhavya Solanki
 
 ### AI/ML Engineer in the Making | ECE (AI & ML) | Computer Vision | Embedded AI
@@ -389,24 +408,6 @@ testing for display systems.
 <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Edge_AI-2E8B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Embedded_AI-8B4513?style=for-the-badge" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BhavyaSolanki31&show_icons=true&theme=default&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaSolanki31&layout=compact&theme=default&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=BhavyaSolanki31&theme=transparent&hide_border=true" />
 
 </p>
 
