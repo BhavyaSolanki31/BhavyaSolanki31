@@ -26,6 +26,16 @@
   <img src="https://streak-stats.demolab.com?user=BhavyaSolanki31&theme=transparent&hide_border=true" />
 </p>
 
+<!-- GitHub Analytics -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhavyaSolanki31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaSolanki31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+<br>
 ---
 # Hi, I'm Bhavya 👋 
 
