@@ -26,12 +26,12 @@
   <img src="https://streak-stats.demolab.com?user=BhavyaSolanki31&theme=transparent&hide_border=true" />
 </p>
 
-<!-- Contribution Graph -->
+<!-- GitHub Trophies -->
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavyaSolanki31&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BhavyaSolanki31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
 </p>
 
 <br>
