@@ -224,7 +224,7 @@ signal processing and acoustic feature extraction.
 ---
 # 💼 Experience
 
-## 🔬 R&D Intern — Barco
+## 🔬 R&D Intern — Barco Electronic Systems Pvt. Ltd.
 
 **July 2026 – August 2026 | Noida, Uttar Pradesh**
 
