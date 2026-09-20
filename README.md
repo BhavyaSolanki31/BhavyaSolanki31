@@ -26,6 +26,15 @@
   <img src="https://streak-stats.demolab.com?user=BhavyaSolanki31&theme=transparent&hide_border=true" />
 </p>
 
+<!-- Contribution Activity -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavyaSolanki31&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+<br>
 ---
 
 # Hi, I'm Bhavya 👋 
