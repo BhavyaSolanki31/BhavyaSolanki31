@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Bhavya Solanki Embedded AI & ML Banner"/>
+
+<img width="1598" height="495" alt="Screenshot 2026-09-25 150307" src="https://github.com/user-attachments/assets/e9b667ad-5b97-419e-a0b3-1f8e427f51a6" />
+
 </p>
 
 <p align="center">
