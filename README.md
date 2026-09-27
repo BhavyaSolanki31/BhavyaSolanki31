@@ -237,20 +237,9 @@ testing for display systems.
 
 ### Key Work
 
-- Built a **Python + OpenCV image-validation pipeline** comparing reference and
-  captured display images across 12 quality checks.
-- Implemented checks including **SSIM, PSNR, MSE, blur, noise, brightness,
-  contrast, histogram similarity, edge similarity, resolution and
-  blank-image detection**.
-- Added **OCR text validation** and combined image-analysis results into a
-  quality score with PASS/FAIL status.
-- Automated camera capture using a **Logitech MX Brio**, including warm-up,
-  sharpest-frame selection, display detection and cropping.
-- Worked with **EasyOCR and PaddleOCR** for text validation.
-- Consolidated API permission testing into a **Robot Framework** suite using
-  loops and conditional logic.
-- Tested API access across **three user roles** and integrated repeated
-  Pytest execution.
+- Worked on the automation and validation of Barco’s Video Wall Management System (VWMS), developing computer vision-based workflows for display quality analysis and system reliability testing.
+- Developed Python/OpenCV-based image processing pipelines for automated display image comparison, camera-based validation, OCR verification, and quality assessment to improve accuracy and reduce manual validation effort.
+- Enhanced software testing workflows by automating API validation and regression testing using Robot Framework and Pytest, improving test coverage and execution efficiency across PTP/ITP/OSD modules.
 
 **Technologies:**  
 `Python` `OpenCV` `NumPy` `OCR` `Robot Framework` `Pytest` `Playwright` `Selenium`
