@@ -1,4 +1,6 @@
-<img width="1584" height="396" alt="Blue and Black Modern Developer LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/adda72e3-56ef-462a-b9b5-69b84c948413" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/adda72e3-56ef-462a-b9b5-69b84c948413" alt="Bhavya Solanki - Embedded AI & ML Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Systems;ECE+%7C+AI%2FML+%7C+Computer+Vision;Python+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+DSP+%7C+Embedded+AI;Open+to+AI%2FML+%26+Embedded+Opportunities" />
