@@ -22,10 +22,19 @@
   </a>
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=BhavyaSolanki31&style=flat-square&color=55198b) 
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BhavyaSolanki31&theme=transparent&hide_border=true" />
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/BhavyaSolanki31/BhavyaSolanki31/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+    width="100%"
+  />
+</p>
 ---
 
 # Hi, I'm Bhavya 👋 
@@ -219,7 +228,20 @@ signal processing and acoustic feature extraction.
   <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge" />
 </p>
+---
 
+## 🔭 Currently Building
+
+### 🧠 NeuroDecode-BCI
+
+Developing an EEG-based brain-computer interface
+classification pipeline as part of my final-year project.
+
+- EEG preprocessing and epoch generation
+- CSP + LDA baseline evaluation
+- EEGNet experiments and participant-independent testing
+
+**Focus:** EEG Signal Processing · Deep Learning · Python
 
 ---
 # 💼 Experience
@@ -285,6 +307,19 @@ testing for display systems.
 <img src="https://img.shields.io/badge/Edge_AI-2E8B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Embedded_AI-8B4513?style=for-the-badge" />
 
+</p>
+
+---
+
+## 📊 GitHub at a Glance
+
+<p align="center">
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api?username=BhavyaSolanki31&show_icons=true&theme=transparent&hide_border=true"
+    alt="GitHub statistics" />
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaSolanki31&layout=compact&theme=transparent&hide_border=true"
+    alt="Most used languages" />
 </p>
 
 ---
