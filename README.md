@@ -23,7 +23,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhavyaSolanki31&style=flat-square&color=55198b&label=PROFILE+VIEWS" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=BhavyaSolanki31&style=flat-square&color=55198b&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
 </p>
 
 <p align="center">
