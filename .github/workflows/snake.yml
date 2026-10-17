@@ -15,9 +15,10 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate snake
-        uses: Platane/snk/svg@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: BhavyaSolanki31
           outputs: dist/github-contribution-grid-snake.svg
@@ -29,4 +30,3 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           force_orphan: true
-      
