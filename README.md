@@ -24,7 +24,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=BhavyaSolanki31"
+    src="https://visitor-badge.laobi.icu/badge?page_id=BhavyaSolanki31.BhavyaSolanki31&left_color=55198b&right_color=6a5acd"
     alt="Profile views"
   />
 </p>
