@@ -40,6 +40,7 @@
     width="100%"
   />
 </p>
+
 ---
 
 # Hi, I'm Bhavya 👋 
