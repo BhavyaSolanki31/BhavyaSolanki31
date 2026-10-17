@@ -22,7 +22,9 @@
   </a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=BhavyaSolanki31&style=flat-square&color=55198b) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BhavyaSolanki31&style=flat-square&color=55198b&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BhavyaSolanki31&theme=transparent&hide_border=true" />
@@ -228,6 +230,7 @@ signal processing and acoustic feature extraction.
   <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge" />
 </p>
+
 ---
 
 ## 🔭 Currently Building
@@ -244,6 +247,7 @@ classification pipeline as part of my final-year project.
 **Focus:** EEG Signal Processing · Deep Learning · Python
 
 ---
+
 # 💼 Experience
 
 ## 🔬 R&D Intern — Barco Electronic Systems Pvt. Ltd.
@@ -295,6 +299,7 @@ testing for display systems.
 - 🤖 **Bootcamp on Artificial Intelligence** — NIELIT Delhi
 - 🧠 **Machine Learning**
 - 💡 **Design Thinking — A Primer**
+  
 ---
 
 # 📚 Currently Learning
